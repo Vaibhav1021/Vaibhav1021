@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Vaibhav Saini!<br><br>Hi, I’m Vaibhav Saini, an Electrical Engineering student at IIT BHU(EE’26). I’m passionate about blending technology with innovation and thrive on solving complex challenges.<br><br>💡 Expertise: Python, C++, SQL, and web development (Flask, HTML, CSS, JavaScript).<br>📊 Interests: Data Science, AI, Machine Learning, and impactful Software Development.<br>🌱 Currently Exploring: Generative AI, LangChain, and cutting-edge AI concepts through hands-on projects.<br>🤝 Collaboration: Open to working on transformative ideas and challenging projects.<br><br>✨ Let’s innovate together! 🚀
+<br>Hi, I’m Vaibhav Saini, an Electrical Engineering student at IIT BHU(EE’26). I’m passionate about blending technology with innovation and thrive on solving complex challenges.<br><br>💡 Expertise: Python, C++, SQL, and web development (Flask, HTML, CSS, JavaScript).<br>📊 Interests: Data Science, AI, Machine Learning, and impactful Software Development.<br>🌱 Currently Exploring: Generative AI, LangChain, and cutting-edge AI concepts through hands-on projects.<br>🤝 Collaboration: Open to working on transformative ideas and challenging projects.<br><br>✨ Let’s innovate together! 🚀
 
 
 ## 🌐 Socials:
